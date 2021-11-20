@@ -38,6 +38,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrehps&layout=compact)](https://github.com/andrehps)
 
-Com grandes poderes vem grandes responsabilidades {Stan Lee (Tio Ben)} 
+Great data scientists are great storytellers 
 
 >E-mail: [andre_barlati@hotmail.com ](andre_barlati@hotmail.com) 
