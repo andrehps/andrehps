@@ -17,5 +17,5 @@ This GitHub contains:
 📍 Based in Malta  
 🌍 Open to international IT opportunities
 
-🔗 LinkedIn: https://www.linkedin.com/in/andree-garcia/
+🔗 LinkedIn: https://www.linkedin.com/in/andree-garcia/ </br>
 📧 Email: andre_barlati@hotmail.com
