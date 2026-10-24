@@ -1,21 +1,21 @@
-Hi, I’m Andre 👋
+# Hi, I’m Andre 👋
 
-I’m a Junior IT Support professional with a background in Systems Analysis and hands-on
-experience in troubleshooting, user support, and IT infrastructure fundamentals.
+I’m an **IT Systems & Identity Specialist** with a Bachelor’s Degree in Systems Analysis & Development and 3+ years of enterprise IT experience. I specialize in cloud infrastructure hardening, automated data scripting, and designing active Zero Trust security frameworks.
 
-Currently, I’m developing my skills in:
-- IT Support (1st and 2nd Line)
-- Windows & basic Linux administration
-- Networking fundamentals (LAN, Wi-Fi, IP, DNS)
-- Cloud computing (Azure & AWS)
+### 🛠️ Core Technical Focus
+* **Identity & Access Management (IAM):** Microsoft Entra ID (Azure AD), Privileged Identity Management (PIM), Risk-Based Conditional Access, and Phishing-Resistant MFA.
+* **Automation & Scripting:** PowerShell development utilizing Microsoft Graph API, automated lifecycle workflows (JML), and SQL/PL-SQL data troubleshooting.
+* **Infrastructure Operations:** Tier-2 Incident Management, Windows/Linux Server administration, and enterprise network fundamentals.
 
-This GitHub contains:
-- Cloud learning labs (Azure / AWS)
-- PowerShell scripts and technical studies
-- Projects related to IT support and systems administration
+### 📂 Featured Repositories
+ **[entra-id-protection-zero-trust](https://github.com/andrehps/entra-id-protection-zero-trust):**
 
-📍 Based in Malta  
-🌍 Open to international IT opportunities
+*    A production-grade deployment of an active Zero Trust identity defense architecture utilizing Premium P2 risk telemetry, authentication strengths, and live penetration test validation.
 
-🔗 LinkedIn: https://www.linkedin.com/in/andree-garcia/ </br>
-📧 Email: andre_barlati@hotmail.com
+---
+
+📍 **Current Location:** Tallinn, Estonia (Available for immediate local hiring & onsite interviews).  
+🌍 **Open to:** IAM Engineer, Cloud/SysAdmin, and Advanced Tier-2/3 IT Operations opportunities across the Baltic region.
+
+🔗 **LinkedIn:** https://www.linkedin.com/in/andree-garcia/  
+📧 **Email:** andre_barlati@hotmail.com
