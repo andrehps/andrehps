@@ -18,7 +18,7 @@ I’m an **IT Systems & Identity Specialist** with a Bachelor’s Degree in Syst
 🚚 **Relocation Status:** Open to relocation to **Riga, Latvia**, and across the Baltic region.  
 🌍 **Open to:** IAM Engineer, Cloud/SysAdmin, and Advanced Tier-2/3 IT Operations opportunities.
 
-🔗 **LinkedIn:** [https://linkedin.com](https://www.linkedin.com/in/andree-garcia/)  
+🔗 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/).  
 📧 **Email:** andre_barlati@hotmail.com
 
 ------------
