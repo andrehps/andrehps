@@ -7,10 +7,11 @@ I’m an **IT Systems & Identity Specialist** with a Bachelor’s Degree in Syst
 * **Automation & Scripting:** PowerShell development utilizing Microsoft Graph API, automated lifecycle workflows (JML), and SQL/PL-SQL data troubleshooting.
 * **Infrastructure Operations:** Tier-2 Incident Management, Windows/Linux Server administration, and enterprise network fundamentals.
 
-### 📂 Featured Repositories
-* **[entra-id-access-package-workflow]([https://github.com](https://github.com/andrehps/andrehps-entra-id-access-package-workflow/tree/main)):** Implementation of an automated, self-service identity governance framework using Entitlement Management. Enforces a strict 30-day access lifecycle to eliminate permission creep.
-* 
-* **[entra-id-protection-zero-trust]([https://github.com](https://github.com/andrehps)):** A production-grade deployment of an active Zero Trust identity defense architecture utilizing Premium P2 risk telemetry, authentication strengths, and live penetration test validation.
+### 📂 Featured Repositories 
+
+* **[entra-id-access-package-workflow](https://github.com):** Implementation of an automated, self-service identity governance framework using Entitlement Management. Enforces a strict 30-day access lifecycle to eliminate permission creep.
+* **[entra-id-protection-zero-trust](https://github.com/andrehps/entra-id-protection-zero-trust):** A production-grade deployment of an active Zero Trust identity defense architecture utilizing Premium P2 risk telemetry, authentication strengths, and live penetration test validation.
+
 
 ---
 
