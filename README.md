@@ -8,14 +8,15 @@ I’m an **IT Systems & Identity Specialist** with a Bachelor’s Degree in Syst
 * **Infrastructure Operations:** Tier-2 Incident Management, Windows/Linux Server administration, and enterprise network fundamentals.
 
 ### 📂 Featured Repositories
- **[entra-id-protection-zero-trust](https://github.com/andrehps/entra-id-protection-zero-trust):**
-
-*    A production-grade deployment of an active Zero Trust identity defense architecture utilizing Premium P2 risk telemetry, authentication strengths, and live penetration test validation.
+* **[entra-id-access-package-workflow]([https://github.com](https://github.com/andrehps/andrehps-entra-id-access-package-workflow/tree/main)):** Implementation of an automated, self-service identity governance framework using Entitlement Management. Enforces a strict 30-day access lifecycle to eliminate permission creep.
+* 
+* **[entra-id-protection-zero-trust]([https://github.com](https://github.com/andrehps)):** A production-grade deployment of an active Zero Trust identity defense architecture utilizing Premium P2 risk telemetry, authentication strengths, and live penetration test validation.
 
 ---
 
-📍 **Current Location:** Tallinn, Estonia (Available for immediate local hiring & onsite interviews).  
-🌍 **Open to:** IAM Engineer, Cloud/SysAdmin, and Advanced Tier-2/3 IT Operations opportunities across the Baltic region.
+📍 **Current Location:** Tallinn, Estonia (Available for immediate hiring & onsite interviews).  
+🚚 **Relocation Status:** Open to relocation to **Riga, Latvia**, and across the Baltic region.  
+🌍 **Open to:** IAM Engineer, Cloud/SysAdmin, and Advanced Tier-2/3 IT Operations opportunities.
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/andree-garcia/  
+🔗 **LinkedIn:** https://linkedin.com  
 📧 **Email:** andre_barlati@hotmail.com
