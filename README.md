@@ -9,7 +9,7 @@ I’m an **IT Systems & Identity Specialist** with a Bachelor’s Degree in Syst
 
 ### 📂 Featured Repositories 
 
-* **[entra-id-access-package-workflow](https://github.com):** Implementation of an automated, self-service identity governance framework using Entitlement Management. Enforces a strict 30-day access lifecycle to eliminate permission creep.
+* **[entra-id-access-package-workflow](https://github.com](https://github.com/andrehps/andrehps-entra-id-access-package-workflow)):** Implementation of an automated, self-service identity governance framework using Entitlement Management. Enforces a strict 30-day access lifecycle to eliminate permission creep.
 * **[entra-id-protection-zero-trust](https://github.com/andrehps/entra-id-protection-zero-trust):** A production-grade deployment of an active Zero Trust identity defense architecture utilizing Premium P2 risk telemetry, authentication strengths, and live penetration test validation.
 
 
